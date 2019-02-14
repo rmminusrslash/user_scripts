@@ -2,10 +2,10 @@
 // @name         Add Feedback Button
 // @namespace    https://zalando.de/
 // @version      0.1
-// @license MIT
+// @license      MIT
 // @description  give feedback to improve the zalando user experience
 // @author       Lina Weichbrodt
-// @include      /^https?://.*zalando\.*/?/
+// @include      /^https?://www.zalando\.*/?/
 // @grant        GM_addStyle
 // @grant  GM_getResourceText
 // @resource pastebin https://pastebin.com/raw/VG3PDN9G
