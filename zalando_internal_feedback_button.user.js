@@ -2,6 +2,7 @@
 // @name         Add Feedback Button
 // @namespace    https://zalando.de/
 // @version      0.1
+// @license MIT
 // @description  give feedback to improve the zalando user experience
 // @author       Lina Weichbrodt
 // @include      /^https?://.*zalando\.*/?/
